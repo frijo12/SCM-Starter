@@ -1,7 +1,3 @@
-Certainly, here's a rephrased version of the README:
-
----
-
 # Starter Next/Hardhat Project
 
 This project provides a starter template for a Next.js front-end integrated with a Hardhat Ethereum development environment. It includes a basic smart contract written in Solidity and a React-based front-end that interacts with the Ethereum blockchain using ethers.js.
